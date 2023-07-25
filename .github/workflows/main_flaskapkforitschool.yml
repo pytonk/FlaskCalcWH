@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FlaskAPKforItschool'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_250A58EE19B140F48C7B8442EE2EE827 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1494E90B38F74DEAB6A38E7012303D21 }}
